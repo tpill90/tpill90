@@ -1,8 +1,12 @@
-Hi
+Hi I'm Tim!
 
+I develop the Steam
 <img src="img/steam.png" height="32px" title="Steam" alt="Steam" />
+Battlenet
 <img src="img/battlenet.png" height="32px" title="Steam" alt="Steam" />
+and Epic prefills.
 <img src="img/epic.png" height="32px" title="Steam" alt="Steam" />
+I also help out with the Lancache project where I can!
 <img src="img/lancache.png" height="32px" title="Steam" alt="Steam" />
 
 ---
