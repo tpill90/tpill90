@@ -1,6 +1,6 @@
 ## Hi I'm Tim!
 
-<font size=3>
+<h3>
 I develop the 
 <a href="https://github.com/tpill90/steam-lancache-prefill">
     Steam <img alt="steam" width="24px" src="img/steam.png" title="Battlenet" alt="Battlenet"/>
@@ -17,7 +17,7 @@ prefills.
 I also help out with the <a href="https://lancache.net/">
     Lancache <img src="img/lancache.png" height="24px" title="Lancache" alt="Lancache" />
 </a> project where I can!
-</font>
+</h3>
 
 </br>
 </br>
