@@ -4,7 +4,6 @@ I develop the
 [Steam <img alt="alt_text" width="16px" src="img/steam.png" title="Battlenet" alt="Battlenet"/>](https://github.com/tpill90/steam-lancache-prefill),
 [Battlenet <img alt="alt_text" width="16px" src="img/battlenet.png" title="Battlenet" alt="Battlenet"/>](https://github.com/tpill90/Battlenet-lancache-prefill)
 and [Epic <img alt="alt_text" width="16px" src="img/epic.png" title="Epic" alt="Epic"/>](https://github.com/tpill90/Epic-lancache-prefill) prefills.
-
 I also help out with the [Lancache <img src="img/lancache.png" height="16px" title="Lancache" alt="Lancache" />](https://lancache.net/) project where I can!
 
 
