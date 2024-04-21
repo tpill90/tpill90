@@ -36,6 +36,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_analysis_timeout: 60
           plugin_languages_analysis_timeout_repositories: 15
+          plugin_languages_indepth_custom: tpill90/steam-lancache-prefill
           commits_authoring: firstname lastname, username, username@users.noreply.github.com
           plugin_notable: yes
           plugin_notable_from: all
