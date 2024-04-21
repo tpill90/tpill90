@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@v3.23
+      - uses: lowlighter/metrics@c430d64381c6a71db703b73ed27412ed641337d1
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           output_action: gist
