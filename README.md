@@ -18,6 +18,6 @@ I sometimes write game mods too.  I've written mods for [Valheim <img src="img/v
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="center"><img src="https://gist.githubusercontent.com/tpill90/2024c9caf34e7c02ffc6f4c7c4558947/raw/github-metrics.svg" alt="Metrics" width="400"></p>
+<p align="center"><img src="https://gist.githubusercontent.com/tpill90/2024c9caf34e7c02ffc6f4c7c4558947/raw/github-metrics.svg" alt="Metrics" width="500"></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tpill90&layout=compact)
