@@ -22,7 +22,6 @@ jobs:
           # Options
           user: tpill90
           template: classic
-          base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_timezone: America/New_York
           plugin_calendar: yes
@@ -34,6 +33,9 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_limit: 5
           plugin_languages_sections: most-used
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_analysis_timeout_repositories: 15
+          commits_authoring: firstname lastname, username, username@users.noreply.github.com
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: commit, pull_request
