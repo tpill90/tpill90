@@ -2,7 +2,7 @@
 
 ### Hi I'm Tim!
 
-I develop the 
+I develop the
 [Steam <img alt="alt_text" width="24px" src="img/steam.png" title="Battlenet" alt="Battlenet"/>](https://github.com/tpill90/steam-lancache-prefill),
 [Battlenet <img alt="alt_text" width="24px" src="img/battlenet.png" title="Battlenet" alt="Battlenet"/>](https://github.com/tpill90/Battlenet-lancache-prefill)
 and [Epic <img alt="alt_text" width="24px" src="img/epic.png" title="Epic" alt="Epic"/>](https://github.com/tpill90/Epic-lancache-prefill) prefills.
@@ -18,8 +18,6 @@ I sometimes write game mods too.  I've written mods for [Valheim <img src="img/v
 
 ## &#x1f4c8; GitHub Stats
 
-![tpill90's GitHub stats](https://github-readme-stats.vercel.app/api?username=tpill90&show_icons=true&theme=tokyonight&hide_rank=true) 
+<p align="center"><img src="https://gist.githubusercontent.com/tpill90/2024c9caf34e7c02ffc6f4c7c4558947/raw/github-metrics.svg" alt="Metrics" width="400"></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tpill90&layout=compact)
-
-
