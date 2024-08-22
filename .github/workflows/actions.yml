@@ -42,3 +42,4 @@ jobs:
           plugin_notable_from: all
           plugin_notable_types: commit, pull_request
           plugin_traffic: yes
+          plugin_crypto: no
