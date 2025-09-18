@@ -25,7 +25,7 @@ jobs:
           base_indepth: yes
           config_timezone: America/New_York
           plugin_calendar: yes
-          plugin_calendar_limit: 3
+          plugin_calendar_limit: 5
           plugin_contributors: yes
           plugin_contributors_contributions: yes
           plugin_languages: yes
