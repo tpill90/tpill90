@@ -1,7 +1,10 @@
-<!-- TODO : This profile looks really nice : https://github.com/ChrisTitusTech -->
-<!-- Editing here so the workflows keep going -->
+<!-- TODO improve the formatting of this at some point. -->
+<div align="center">
 
-### Hi I'm Tim!
+# Hi, I’m Tim 👋
+
+</div>
+
 
 I develop the
 [Steam <img alt="alt_text" width="24px" src="img/steam.png" title="Battlenet" alt="Battlenet"/>](https://github.com/tpill90/steam-lancache-prefill),
@@ -9,7 +12,7 @@ I develop the
 and [Epic <img alt="alt_text" width="24px" src="img/epic.png" title="Epic" alt="Epic"/>](https://github.com/tpill90/Epic-lancache-prefill) prefills.
 I also help out with the [Lancache <img src="img/lancache.png" height="24px" title="Lancache" alt="Lancache" />](https://lancache.net/) project where I can!
 
-I sometimes write game mods too.  I've written mods for [Valheim <img src="img/valheim.png" height="24px" title="Valheim" alt="Valheim" />](https://github.com/tpill90/ValheimMods), [The Long Dark <img src="img/thelongdark.jpg" height="24px" title="The Long Dark" alt="The Long Dark" />](https://github.com/tpill90/TheLongDark-Mods), and [Plate Up](https://github.com/tpill90/PlateUp-Mods)
+I sometimes write game mods too.  I've written mods for [Valheim <img src="img/valheim.png" height="24px" title="Valheim" alt="Valheim" />](https://github.com/tpill90/ValheimMods), [The Long Dark <img src="img/thelongdark.jpg" height="24px" title="The Long Dark" alt="The Long Dark" />](https://github.com/tpill90/TheLongDark-Mods), [Plate Up <img src="img/plateup.png" height="24px" title="Plate Up!" alt="Plate Up!" />](https://github.com/tpill90/PlateUp-Mods), and [Hades 2 <img src="img/hades2.jpg" height="24px" title="Hades 2" alt="Hades 2" />](https://github.com/Hades-Faster-Room-Transition)
 
 I also have a light theme I created for VSCode! [VSCode Light Blue Theme](https://marketplace.visualstudio.com/items?itemName=tpill90.light-blue-theme)
 
